@@ -14,7 +14,7 @@ body {
 
 .main-container {
     max-width: 20rem;
-    margin: 30% auto;
+    margin: auto;
     padding: 1.3rem;
     background-color: hsl(800, 0%, 12%);
     border-radius: 1rem;
@@ -63,8 +63,6 @@ img {
 }
 
 .attribution {
-    position: absolute;
-    bottom: 0;
     width: 100%;
     text-align: center;
     background-color: hsl(700, 0%, 20%);
